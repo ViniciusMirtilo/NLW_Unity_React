@@ -43,5 +43,6 @@ Para ter uma cópia local funcionando, siga estes simples passos:
    npm install
    ```
    
-[Link do Projeto:]([https://github.com/seu_nome_de_usuario/nome_do_repositorio](https://github.com/ViniciusMirtilo/pass-in-web/tree/master)
-Link do Curso: [Link do Curso ]([[https://github.com/seu_nome_de_usuario/nome_do_repositorio](https://github.com/ViniciusMirtilo/pass-in-web/tree/master](https://www.rocketseat.com.br/eventos/nlw/convite/vinicius-23390)
+[Link do Meu Projeto]([https://github.com/seu_nome_de_usuario/nome_do_repositorio](https://github.com/ViniciusMirtilo/pass-in-web/tree/master)
+
+[Link do Curso ](https://github.com/ViniciusMirtilo/pass-in-web/tree/master](https://www.rocketseat.com.br/eventos/nlw/convite/vinicius-23390)
