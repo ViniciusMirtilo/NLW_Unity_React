@@ -1,0 +1,46 @@
+# Sistema de Gerenciamento de Participantes
+
+Este projeto é uma aplicação web projetada para gerenciar participantes de eventos. Ele fornece funcionalidades para listar participantes, buscar participantes específicos e navegar através de páginas de registros de participantes. O frontend é construído usando React e se comunica com um servidor backend para buscar dados dos participantes.
+
+## Funcionalidades
+
+- **Listagem de Participantes:** Visualize uma lista de participantes com seus detalhes, como nome, email, data de inscrição e status de check-in.
+- **Funcionalidade de Busca:** Busque participantes pelo nome ou endereço de email.
+- **Paginação:** Navegue através das páginas de registros de participantes.
+- **Design Responsivo:** A interface é projetada para ser responsiva e acessível em vários dispositivos.
+
+## Tecnologias Utilizadas
+
+- **Frontend:** React, Lucide Icons, Day.js
+- **Backend:** (Servidor backend não fornecido no trecho de código)
+- **Outros:** TypeScript, HTML, CSS
+
+## Uso
+
+Para usar este aplicativo, siga estes passos:
+
+1. Clone o repositório para sua máquina local.
+2. Instale as dependências usando `npm install`.
+3. Inicie o servidor de desenvolvimento usando `npm start`.
+4. Acesse o aplicativo em seu navegador da web em `http://localhost:3000`.
+
+## Como Começar
+
+Para ter uma cópia local funcionando, siga estes simples passos:
+
+### Pré-requisitos
+
+- Node.js instalado em sua máquina
+
+### Instalação
+
+1. Clone o repositório
+   ```sh
+   git clone https://github.com/seu_nome_de_usuario/nome_do_repositorio.git
+   ```
+2. Instale os pacotes NPM
+   ```sh
+   npm install
+   ```
+   
+Link do Projeto: [https://github.com/seu_nome_de_usuario/nome_do_repositorio](https://github.com/seu_nome_de_usuario/nome_do_repositorio)
