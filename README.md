@@ -9,6 +9,12 @@ Este projeto é uma aplicação web projetada para gerenciar participantes de ev
 - **Paginação:** Navegue através das páginas de registros de participantes.
 - **Design Responsivo:** A interface é projetada para ser responsiva e acessível em vários dispositivos.
 
+## Curso do Projeto
+
+Curso gratuito oferecido pela Rocketseat, que ocorreu de 01/04/2024 a 04/04/2024.
+
+[*Link do Curso*](https://www.rocketseat.com.br/eventos/nlw/convite/vinicius-23390)
+
 ## Tecnologias Utilizadas
 
 - **Frontend:** React, Lucide Icons, Day.js
@@ -42,5 +48,3 @@ Para ter uma cópia local funcionando, siga estes simples passos:
    ```sh
    npm install
    ```
-
-[*Link do Curso*](https://www.rocketseat.com.br/eventos/nlw/convite/vinicius-23390)
