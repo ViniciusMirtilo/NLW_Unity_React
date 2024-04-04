@@ -36,7 +36,7 @@ Para ter uma cópia local funcionando, siga estes simples passos:
 
 1. Clone o repositório
    ```sh
-   git clone https://github.com/seu_nome_de_usuario/nome_do_repositorio.git
+   git clone https://github.com/ViniciusMirtilo/pass-in-web.git
    ```
 2. Instale os pacotes NPM
    ```sh
